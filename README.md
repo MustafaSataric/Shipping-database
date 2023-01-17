@@ -1,11 +1,11 @@
 # Shipping-database
 ## Microsoft Access Shipping Database
 
-1. Properties
-  -> Permit
+1. Properties </br>
+  -> `Permit`
 2. Open Database
-3. Now you can:
-  -> Add new orders
-  -> Add items to orders
+3. Now you can: </br>
+  -> Add new orders </br>
+  -> Add items to orders </br>
   -> Compile statistics of your Customers and their orders
   
